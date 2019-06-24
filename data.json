@@ -58,7 +58,7 @@
     "bgcolor":"0xffca28",
     "txtcolor":"0xfafafa",
     "items": [
-                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCFQoQdXRFAkd3OeVhKKAhrA&q=nh%E1%BA%A1c+thuy+nga+paris+by+night+full&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+thuy+nga+paris+by+night+full&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
                    {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+asia+full++Asia+Entertainment&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
@@ -70,11 +70,11 @@
     "bgcolor":"0x673ab7",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=phuong+anh+bolero&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=qu%E1%BB%B3nh+trang+nh%E1%BA%A1c+bolero&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&q=nhac+bolero+tr%E1%BA%BB+tr%C6%B0%C6%A1ng+nh%C6%B0+%C3%BD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=nhac+bolero+tr%E1%BA%BB+%C3%9D+nh%C6%B0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nhac+bolero+tr%E1%BA%BB+ng%E1%BB%8Dc+di%E1%BB%87u&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=phuong+anh+bolero&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=qu%E1%BB%B3nh+trang+nh%E1%BA%A1c+bolero&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+tr%E1%BA%BB+tr%C6%B0%C6%A1ng+nh%C6%B0+%C3%BD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+tr%E1%BA%BB+%C3%9D+nh%C6%B0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+tr%E1%BA%BB+ng%E1%BB%8Dc+di%E1%BB%87u&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
     {
@@ -117,9 +117,9 @@
     "bgcolor":"0x8e24aa",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+phong+tr%C3%A0+le+quy%C3%AAn&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+phong+tr%C3%A0+%C4%91%C3%A0m+v%C4%A9nh+h%C6%B0ng&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+phong+tr%C3%A0+le+quy%C3%AAn&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+phong+tr%C3%A0+%C4%91%C3%A0m+v%C4%A9nh+h%C6%B0ng&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
                    {
