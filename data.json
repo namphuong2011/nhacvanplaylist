@@ -51,6 +51,17 @@
                    {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tr%E1%BB%AF+t%C3%ACnh+sang+tr%E1%BB%8Dng+h%E1%BA%A3i+ngo%E1%BA%A1i&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
+    {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "DVD trung tâm băng đĩa",
+    "bgcolor":"0xffca28",
+    "txtcolor":"0xfafafa",
+    "items": [
+                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCFQoQdXRFAkd3OeVhKKAhrA&q=nh%E1%BA%A1c+thuy+nga+paris+by+night+full&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+asia+full++Asia+Entertainment&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
 
                 {
     "id":"recent",
@@ -97,6 +108,18 @@
     "txtcolor":"0xfafafa",
     "items": [
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=L%C3%AA+Sang%2C+L%C6%B0u+%C3%81nh+Loan%2C+Randy%2C+Gi%C3%A1ng+Ti%C3%AAn+-+Tuy%E1%BB%83n+T%E1%BA%ADp+Nh%E1%BA%A1c+Song+Ca+Tr%E1%BB%AF+T%C3%ACnh+Bolero+M%E1%BB%9Bi+V%C3%A0+Hay+Nh%E1%BA%A5t&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+           {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Liveshow phòng trà",
+    "bgcolor":"0x8e24aa",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+phong+tr%C3%A0+le+quy%C3%AAn&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+phong+tr%C3%A0+%C4%91%C3%A0m+v%C4%A9nh+h%C6%B0ng&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
                    {
@@ -157,16 +180,7 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ca+s%C4%A9+tr%E1%BA%BB+h%C3%A1t+t%C3%A2n+c%E1%BB%95&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-        {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Liveshow phòng trà",
-    "bgcolor":"0x8e24aa",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
+
          {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
