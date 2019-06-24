@@ -16,28 +16,7 @@
               ]
 }],
  "tabs":[
-                {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Liên khúc xuân 2019 kỷ hợi",
-    "bgcolor":"0xe53935",
-    "txtcolor":"0xfafafa",
-    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/261386361181528",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
-             {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Tuyển chọn nhạc xuân 2019 kỷ hợi",
-    "bgcolor":"0xe53935",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+tuy%E1%BB%83n+ch%E1%BB%8Dn+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=xu%C3%A2n+collection+thu%C3%BD+nga+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
+
           {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -49,19 +28,30 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=cd+nh%E1%BA%A1c+x%C6%B0a+asia+lossless+bolero+vi%E1%BB%87t+nam&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-      {
+          {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Nhạc Thính Phòng",
-    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/300783263908504",
-    "bgcolor":"0xb71685",
+    "header": "Giọng ca dĩ vãng 2",
+    "bgcolor":"0x673ab7",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+tu%E1%BA%A5n+khanh+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+t%E1%BB%AB+c%C3%B4ng+ph%E1%BB%A5ng+tuy%E1%BB%83n+ch%E1%BB%8Dn+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},        
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+v%C5%A9+th%C3%A0nh+an+paris+by+night+s%C3%A1ng+t%C3%A1c+%C4%91%E1%BB%83+%C4%91%E1%BB%9Di&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+giang+t%E1%BB%AD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+ph%C6%B0%C6%A1ng+h%E1%BB%93ng+qu%E1%BA%BF&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+thanh+tuy%E1%BB%81n&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
+ {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Tình ca sầu lắng",
+    "bgcolor":"0xffca28",
+    "txtcolor":"0xfafafa",
+    "items": [
+                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCFQoQdXRFAkd3OeVhKKAhrA&q=t%C3%ACnh+ca&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tr%E1%BB%AF+t%C3%ACnh+sang+tr%E1%BB%8Dng+h%E1%BA%A3i+ngo%E1%BA%A1i&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+
                 {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -86,6 +76,16 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&channelId=UCFQoQdXRFAkd3OeVhKKAhrA&q=t%C3%ACnh&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
+                         {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Hùng Cường Mai Lệ Huyền",                
+    "bgcolor":"0xe91e63",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mai+l%E1%BB%87+huy%E1%BB%81n+h%C3%B9ng+c%C6%B0%E1%BB%9Dng&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
 
                  {
     "id":"recent",
@@ -95,6 +95,28 @@
     "txtcolor":"0xfafafa",
     "items": [
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=L%C3%AA+Sang%2C+L%C6%B0u+%C3%81nh+Loan%2C+Randy%2C+Gi%C3%A1ng+Ti%C3%AAn+-+Tuy%E1%BB%83n+T%E1%BA%ADp+Nh%E1%BA%A1c+Song+Ca+Tr%E1%BB%AF+T%C3%ACnh+Bolero+M%E1%BB%9Bi+V%C3%A0+Hay+Nh%E1%BA%A5t&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+                   {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Liên khúc xuân 2019 kỷ hợi",
+    "bgcolor":"0xe53935",
+    "txtcolor":"0xfafafa",
+    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/261386361181528",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+             {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Tuyển chọn nhạc xuân 2019 kỷ hợi",
+    "bgcolor":"0xe53935",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+tuy%E1%BB%83n+ch%E1%BB%8Dn+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=xu%C3%A2n+collection+thu%C3%BD+nga+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
       {
@@ -110,18 +132,7 @@
 
     ]
 },
-       {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Giọng ca dĩ vãng 2",
-    "bgcolor":"0x673ab7",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+giang+t%E1%BB%AD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+ph%C6%B0%C6%A1ng+h%E1%BB%93ng+qu%E1%BA%BF&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+thanh+tuy%E1%BB%81n&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
+
    {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -144,17 +155,30 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ca+s%C4%A9+tr%E1%BA%BB+h%C3%A1t+t%C3%A2n+c%E1%BB%95&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-                  {
+        {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Tình ca",
-    "bgcolor":"0xffca28",
+    "header": "Liveshow phòng trà",
+    "bgcolor":"0x8e24aa",
     "txtcolor":"0xfafafa",
     "items": [
-                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCFQoQdXRFAkd3OeVhKKAhrA&q=t%C3%ACnh+ca&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tr%E1%BB%AF+t%C3%ACnh+sang+tr%E1%BB%8Dng+h%E1%BA%A3i+ngo%E1%BA%A1i&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
+         {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Nhạc Thính Phòng",
+    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/300783263908504",
+    "bgcolor":"0xb71685",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+tu%E1%BA%A5n+khanh+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+t%E1%BB%AB+c%C3%B4ng+ph%E1%BB%A5ng+tuy%E1%BB%83n+ch%E1%BB%8Dn+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},        
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+v%C5%A9+th%C3%A0nh+an+paris+by+night+s%C3%A1ng+t%C3%A1c+%C4%91%E1%BB%83+%C4%91%E1%BB%9Di&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+
                        {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -198,16 +222,7 @@
 
     ]
 },
-                      {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Hùng Cường Mai Lệ Huyền",                
-    "bgcolor":"0xe91e63",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mai+l%E1%BB%87+huy%E1%BB%81n+h%C3%B9ng+c%C6%B0%E1%BB%9Dng&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
+
 
                  {
     "id":"recent",
@@ -252,16 +267,7 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+h%C3%A0i+k%E1%BB%8Bch&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-     {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Liveshow phòng trà",
-    "bgcolor":"0x8e24aa",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
+
    {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
