@@ -59,6 +59,8 @@
     "bgcolor":"0x673ab7",
     "txtcolor":"0xfafafa",
     "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=phuong+anh+bolero&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=qu%E1%BB%B3nh+trang+nh%E1%BA%A1c+bolero&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&q=nhac+bolero+tr%E1%BA%BB+tr%C6%B0%C6%A1ng+nh%C6%B0+%C3%BD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=nhac+bolero+tr%E1%BA%BB+%C3%9D+nh%C6%B0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nhac+bolero+tr%E1%BA%BB+ng%E1%BB%8Dc+di%E1%BB%87u&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
