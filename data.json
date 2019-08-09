@@ -16,30 +16,7 @@
               ]
 }],
  "tabs":[
-          {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "CD Nhạc xưa",
-    "bgcolor":"0xAA8739",
-    "txtcolor":"0xfafafa",
-     "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/323016138351883",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=cd+nh%E1%BA%A1c+x%C6%B0a+asia+lossless+bolero+vi%E1%BB%87t+nam&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
-          {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Giọng ca dĩ vãng 2",
-    "bgcolor":"0x673ab7",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+giang+t%E1%BB%AD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+ph%C6%B0%C6%A1ng+h%E1%BB%93ng+qu%E1%BA%BF&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+thanh+tuy%E1%BB%81n&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
-                   {
+                      {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Mr Đàm",
@@ -49,17 +26,8 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
     ]
 },
-             {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Nhạc lính bolero song ca",
-    "bgcolor":"0x673ab7",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+linh+bolero+song+ca&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
-    ]
-},
- {
+
+    {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Tình ca sầu lắng",
@@ -70,7 +38,7 @@
                    {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tr%E1%BB%AF+t%C3%ACnh+sang+tr%E1%BB%8Dng+h%E1%BA%A3i+ngo%E1%BA%A1i&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-
+ 
  {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -81,6 +49,19 @@
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=l%E1%BB%87+quy%C3%AAn+hay+nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 },
+              {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Liveshow phòng trà",
+    "bgcolor":"0x8e24aa",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+phong+tr%C3%A0+le+quy%C3%AAn&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+phong+tr%C3%A0+%C4%91%C3%A0m+v%C4%A9nh+h%C6%B0ng&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+
     {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -105,6 +86,27 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+tr%E1%BA%BB+tr%C6%B0%C6%A1ng+nh%C6%B0+%C3%BD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+tr%E1%BA%BB+%C3%9D+nh%C6%B0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+tr%E1%BA%BB+ng%E1%BB%8Dc+di%E1%BB%87u&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+                {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Nhạc lính bolero song ca",
+    "bgcolor":"0x673ab7",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+linh+bolero+song+ca&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+    ]
+},
+             {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "CD Nhạc xưa",
+    "bgcolor":"0xAA8739",
+    "txtcolor":"0xfafafa",
+     "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/323016138351883",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=cd+nh%E1%BA%A1c+x%C6%B0a+asia+lossless+bolero+vi%E1%BB%87t+nam&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
     {
@@ -140,18 +142,19 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=L%C3%AA+Sang%2C+L%C6%B0u+%C3%81nh+Loan%2C+Randy%2C+Gi%C3%A1ng+Ti%C3%AAn+-+Tuy%E1%BB%83n+T%E1%BA%ADp+Nh%E1%BA%A1c+Song+Ca+Tr%E1%BB%AF+T%C3%ACnh+Bolero+M%E1%BB%9Bi+V%C3%A0+Hay+Nh%E1%BA%A5t&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-           {
+               {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Liveshow phòng trà",
-    "bgcolor":"0x8e24aa",
+    "header": "Giọng ca dĩ vãng 2",
+    "bgcolor":"0x673ab7",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+phong+tr%C3%A0+le+quy%C3%AAn&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=live+show+phong+tr%C3%A0+%C4%91%C3%A0m+v%C4%A9nh+h%C6%B0ng&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+giang+t%E1%BB%AD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+ph%C6%B0%C6%A1ng+h%E1%BB%93ng+qu%E1%BA%BF&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+thanh+tuy%E1%BB%81n&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
+
                    {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
