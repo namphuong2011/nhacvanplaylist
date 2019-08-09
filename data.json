@@ -60,6 +60,26 @@
                    {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tr%E1%BB%AF+t%C3%ACnh+sang+tr%E1%BB%8Dng+h%E1%BA%A3i+ngo%E1%BA%A1i&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
+                {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Mr Đàm",
+    "bgcolor":"0x673ab7",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+    ]
+},
+ {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Lệ Quyên",
+    "bgcolor":"0xe64a19",
+    "txtcolor":"0xfafafa",
+    "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=l%E1%BB%87+quy%C3%AAn+hay+nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              ]
+},
     {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -831,16 +851,7 @@
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+l%C3%ADnh+tr%C6%B0+t%C3%ACnh&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 },
-        {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Lệ Quyên",
-    "bgcolor":"0xe64a19",
-    "txtcolor":"0xfafafa",
-    "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=l%E1%BB%87+quy%C3%AAn+hay+nh%E1%BA%A5t&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
-              ]
-},
+
       {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
