@@ -1,0 +1,16 @@
+{
+  "feed": [
+    {
+      "title": "danh ngon",
+      "detail":[
+        {"title":"",
+          "content":"Nếu một ngày cuộc sống của bạn bị nhuốm màu đen, hãy cầm bút và tô điểm cho nó những vì sao lấp lánh."},
+        {"title":"",
+          "content":"Đừng ngại thay đổi. Bạn có thể mất một cái gì đó tốt nhưng bạn có thể đạt được một cái gì đó còn tốt hơn."},
+        {"title":"",
+          "content":"Sự lười biếng của bản thân như một cái rễ cây. Chúng nhanh chóng phát triển và ghìm chặt bạn tại một chỗ."}
+      ]
+    }
+
+  ]
+}
